@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Diario de classe</string>
+    <string name="Nome">Celina Oliveira</string>
+    <string name="Nota">100</string>
+    <string name="Falta">01</string>
+    <string name="Curso">Criação de aplicativos em kotlin</string>
+</resources>
