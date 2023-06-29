@@ -5,13 +5,13 @@ import com.example.diariodeclasse.model.Aluno
 class ListaDeAlunos {
     fun carregarListaDeAlunos(): List<Aluno> {
         return listOf<Aluno>(
-            Aluno("Gael", "TI"),
+            Aluno("Maria aghata", " Criação de App "),
             Aluno("Celina ", "Criação de App"),
-            Aluno("Gael", "TI"),
-            Aluno("Celina", "Criação de App"),
-            Aluno("Gael", "TI"),
-            Aluno("Celina", "Criação de App"),
-            Aluno("Gael", "TI")
+            Aluno("Laura", "Criação de App"),
+            Aluno("Pedro", "Criação de App"),
+            Aluno("Michele", "Criação de App"),
+            Aluno("Rafael", "Criação de App"),
+            Aluno("Gael", "Criação de App")
         )
     }
 }
