@@ -38,7 +38,7 @@ fun AppDiariodeClasse(){
 val controleDeNavegacao= rememberNavController()
         NavHost(
             navController = controleDeNavegacao,
-            startDestination = "telalogin"
+            startDestination = "telaDelogin"
         ){
             composable(
                 route= "telaDelogin"
